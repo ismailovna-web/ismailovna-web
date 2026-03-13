@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on portfolio <br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
+👯 I’m looking to collaborate on <br>
+🤝 I’m looking for help with  <br>
+🌱 I’m currently learning <br>
+💬 Ask me about HTML5, CSS3 <br>
 ⚡ Fun fact
 
 
